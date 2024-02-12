@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\C &amp; C++\Oops\Build\Oops\CMakeFiles\02cc570185940ab883a76ef671beb713\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="F:\C &amp; C++\Oops\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="F:\C &amp; C++\Oops\Build\Oops\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CB0A90E3-A09F-3112-B8AD-96DD7F59C221}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

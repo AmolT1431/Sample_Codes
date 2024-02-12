@@ -1,0 +1,10 @@
+^F:\C & C++\C++\BUILD\C++\CMAKEFILES\72821C75AE1DA03F60EE746DE35C49F0\GENERATE.STAMP.RULE
+setlocal
+F:\Softwares\Cmake\bin\cmake.exe "-SF:/C & C++/C++" "-BF:/C & C++/C++/Build/C++" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "F:/C & C++/C++/Build/C++/Oops.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
