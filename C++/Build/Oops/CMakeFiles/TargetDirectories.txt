@@ -1,9 +1,0 @@
-F:/C & C++/Oops/Build/Oops/CMakeFiles/Experimental.dir
-F:/C & C++/Oops/Build/Oops/CMakeFiles/Nightly.dir
-F:/C & C++/Oops/Build/Oops/CMakeFiles/Continuous.dir
-F:/C & C++/Oops/Build/Oops/CMakeFiles/NightlyMemoryCheck.dir
-F:/C & C++/Oops/Build/Oops/CMakeFiles/Oops.dir
-F:/C & C++/Oops/Build/Oops/CMakeFiles/PACKAGE.dir
-F:/C & C++/Oops/Build/Oops/CMakeFiles/RUN_TESTS.dir
-F:/C & C++/Oops/Build/Oops/CMakeFiles/ALL_BUILD.dir
-F:/C & C++/Oops/Build/Oops/CMakeFiles/ZERO_CHECK.dir
